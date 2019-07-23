@@ -1,5 +1,5 @@
 # hello-world
-Just a simple test
+Just a test
 
 Hi folks!
 
